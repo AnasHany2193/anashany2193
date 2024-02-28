@@ -24,7 +24,7 @@ Here are some of the projects I'm proud of:
    - [Link to GitHub repository](https://github.com/AnasHany2193/NewsGrid-website)
    - Technologies used: HTML/CSS.
 
-3. **Portfolio **: gateway to showcase your work and skills.
+3. **Portfolio**: gateway to showcase your work and skills.
    - [Link to GitHub repository](https://github.com/AnasHany2193/portfolio-website)
    - Technologies used: HTML/CSS.
 

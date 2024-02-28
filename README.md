@@ -16,11 +16,15 @@ I'm a Computer Science student with a passion for programming and a keen interes
 
 Here are some of the projects I'm proud of:
 
-1. **Project Name**: Brief description.
-   - [Link to GitHub repository](#)
-   - Technologies used: List them here.
+1. **EdgeLedger**: destination for world-class financial assistance.
+   - [Link to GitHub repository](https://github.com/AnasHany2193/Edge-Ledger-website)
+   - Technologies used: HTML/CSS.
 
-2. **Project Name**: Brief description.
+2. **NewsGrid**: sports articles and updates.
+   - [Link to GitHub repository](https://github.com/AnasHany2193/NewsGrid-website)
+   - Technologies used: HTML/CSS.
+
+3. **Project Name**: Brief description.
    - [Link to GitHub repository](#)
    - Technologies used: List them here.
 

@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Anas Hany! 👋
 
-<!--
-**AnasHany2193/anashany2193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a passion for programming and a keen interest in web development. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying Computer Science.
+- 💻 Proficient in C++, Python, Java, HTML, CSS, and more.
+- 🌐 Enthusiastic about web development and always eager to learn new technologies.
+
+## Get in Touch
+
+- Connect with me on [Facebook](https://www.facebook.com/anashany219/)!
+
+## Projects
+
+Here are some of the projects I'm proud of:
+
+1. **Project Name**: Brief description.
+   - [Link to GitHub repository](#)
+   - Technologies used: List them here.
+
+2. **Project Name**: Brief description.
+   - [Link to GitHub repository](#)
+   - Technologies used: List them here.
+
+Feel free to explore my repositories to see more of my work!

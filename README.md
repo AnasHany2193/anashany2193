@@ -11,6 +11,8 @@ I'm a Computer Science student with a passion for programming and a keen interes
 ## Get in Touch
 
 - Connect with me on [Facebook](https://www.facebook.com/anashany219/)!
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/anashany219/) too!
+- Check out my personal account on [GitHub](https://github.com/AnasHany219)!
 
 ## Projects
 

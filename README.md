@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnasHany2193](https://github.com/AnasHany2193)
 
-- 📫 How to reach me **anashany219@gmail.com**
+- 📫 How to reach me **anashany2193@gmail.com**
 
 - ⚡ Fun fact **I have a knack for creating delicious recipes from random ingredients found in the kitchen!**
 

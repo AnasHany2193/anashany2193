@@ -1,33 +1,29 @@
-# Hi there, I'm Anas Hany! 👋
+<h1 align="center">Hi 👋, I'm Anas Hany</h1>
+<h3 align="center">Passionate Learner in Computer Science and Software Development</h3>
 
-I'm a Computer Science student with a passion for programming and a keen interest in web development. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anashany2193&label=Profile%20views&color=0e75b6&style=flat" alt="anashany2193" /> </p>
 
-## About Me
+- 🌱 I’m currently learning **JavaScript**
 
-- 🎓 Currently studying Computer Science.
-- 💻 Proficient in C++, Python, Java, HTML, CSS, and more.
-- 🌐 Enthusiastic about web development and always eager to learn new technologies.
+- 👨‍💻 All of my projects are available at [https://github.com/AnasHany2193](https://github.com/AnasHany2193)
 
-## Get in Touch
+- 📫 How to reach me **anashany219@gmail.com**
 
-- Connect with me on [Facebook](https://www.facebook.com/anashany219/)!
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/anashany219/) too!
-- Check out my personal account on [GitHub](https://github.com/AnasHany219)!
+- ⚡ Fun fact **I have a knack for creating delicious recipes from random ingredients found in the kitchen!**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anashany219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anashany219" height="30" width="40" /></a>
+<a href="https://fb.com/anashany219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anashany219" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/anas_hany_219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anas_hany_219" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anas_hany_219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas_hany_219" height="30" width="40" /></a>
+</p>
 
-Here are some of the projects I'm proud of:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-1. **EdgeLedger**: destination for world-class financial assistance.
-   - [Link to GitHub repository](https://github.com/AnasHany2193/Edge-Ledger-website)
-   - Technologies used: HTML/CSS.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anashany2193&show_icons=true&locale=en&layout=compact" alt="anashany2193" /></p>
 
-2. **NewsGrid**: sports articles and updates.
-   - [Link to GitHub repository](https://github.com/AnasHany2193/NewsGrid-website)
-   - Technologies used: HTML/CSS.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anashany2193&show_icons=true&locale=en" alt="anashany2193" /></p>
 
-3. **Portfolio**: gateway to showcase your work and skills.
-   - [Link to GitHub repository](https://github.com/AnasHany2193/portfolio-website)
-   - Technologies used: HTML/CSS.
-
-Feel free to explore my repositories to see more of my work!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anashany2193&" alt="anashany2193" /></p>

@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anas Hany</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas+Hany!+😎;" />
+</div>
+<br>
 <h3 align="center">Passionate Learner in Computer Science and Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anashany2193&label=Profile%20views&color=0e75b6&style=flat" alt="anashany2193" /> </p>
-
+## 🙋‍♂️ About Me:
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnasHany2193](https://github.com/AnasHany2193)
@@ -11,19 +13,70 @@
 
 - ⚡ Fun fact **I have a knack for creating delicious recipes from random ingredients found in the kitchen!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anashany219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anashany219" height="30" width="40" /></a>
-<a href="https://fb.com/anashany219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anashany219" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anas_hany_219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anas_hany_219" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anas_hany_219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anas_hany_219" height="30" width="40" /></a>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 🚀 Languages and Tools:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,dart,flutter,js,html,css,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,obsidian," /><br>
+  <img src="https://skillicons.dev/icons?i=mint,windows,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=linkedin" /><br>
+</div>
+  
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anashany2193&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
 </p>
+<a href="https://github.com/AnasHany213/github-readme-stats"><img alt="AnasHany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anashany2193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AnasHany213/github-readme-stats"><img alt="AnasHany's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anashany2193&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anashany2193&show_icons=true&locale=en&layout=compact" alt="anashany2193" /></p>
+## 🤝 Connect With Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anashany2193&show_icons=true&locale=en" alt="anashany2193" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/anashany219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:anashany2193@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://wa.me/01066195080" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</div>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anashany2193&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/AnasHany2193/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AnasHany2193">
+</a>
+<a href="https://github.com/AnasHany2193?tab=followers">
+  <img src="https://img.shields.io/github/followers/AnasHany2193?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>

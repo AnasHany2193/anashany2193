@@ -1,70 +1,47 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas+Hany!+😎;" />
 </div>
-<br>
-<h3 align="center">Passionate Learner in Computer Science and Software Development</h3>
 
-## 🙋‍♂️ About Me:
-- 🌱 I’m currently learning **JavaScript**
+<h3 align="center">Frontend Developer | React.js Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnasHany2193](https://github.com/AnasHany2193)
+## 🚀 About Me
 
-- 📫 How to reach me **anashany2193@gmail.com**
+- 🎓 **Computer Science Student** (Graduating in July 2025)
+- 💻 **Frontend Developer** passionate about building modern, user-friendly web applications.
+- 🌱 Currently exploring **Next.js, React Query, and Performance Optimization**.
+- 📂 Check out my projects: **[GitHub Profile](https://github.com/AnasHany2193?tab=repositories)**
+- 📫 Reach me at: **anashany2193@gmail.com**
 
-- ⚡ Fun fact **I have a knack for creating delicious recipes from random ingredients found in the kitchen!**
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-## 🚀 Languages and Tools:
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,dart,flutter,js,html,css,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,obsidian," /><br>
-  <img src="https://skillicons.dev/icons?i=mint,windows,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=linkedin" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,nodejs,express,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" /><br>
 </div>
-  
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
-## 📊 My Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anashany2193&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasHany2193&theme=dark&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasHany2193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasHany2193&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
-<a href="https://github.com/AnasHany213/github-readme-stats"><img alt="AnasHany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anashany2193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AnasHany213/github-readme-stats"><img alt="AnasHany's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=anashany2193&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
-## 🤝 Connect With Me:
+## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anashany219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anashany2193@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://wa.me/01066195080" target="_blank">
+  <a href="https://wa.me/01040045159" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+  </a>
 </div>
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 💜 Views and Followers:
 

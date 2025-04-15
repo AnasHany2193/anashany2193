@@ -2,15 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas+Hany!+😎;" />
 </div>
 
-<h3 align="center">Frontend Developer | React.js Enthusiast</h3>
+<h3 align="center">Frontend Developer | JavaScript & React Specialist | Building Responsive Interfaces</h3>
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** (Graduating in July 2025)
-- 💻 **Frontend Developer** passionate about building modern, user-friendly web applications.
-- 🌱 Currently exploring **Next.js, React Query, and Performance Optimization**.
-- 📂 Check out my projects: **[GitHub Profile](https://github.com/AnasHany2193?tab=repositories)**
-- 📫 Reach me at: **anashany2193@gmail.com**
+- 🎓 Final-year Computer Science student at Menoufia University (Graduating in July 2025).  
+- 👨‍💻 Focused on frontend web development using modern frameworks and tools.  
+- ⚛️ Specialized in building responsive interfaces with React.js, Redux, and Tailwind CSS.  
+- 🛠️ Constantly learning: Next.js, TypeScript, React Query & Performance Optimization.  
+- 🌍 Open to remote/in-office opportunities for internships or junior frontend roles.  
+- 📫 Reach me at: anashany2193@gmail.com
+
 
 ## 🛠️ Tech Stack
 

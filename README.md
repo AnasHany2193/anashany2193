@@ -1,49 +1,61 @@
+<h3 align="center">Hi there, I'm Anas Hany Shaaban 👋</h3>
+<h4 align="center">Frontend Developer | React & JavaScript Enthusiast</h4>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Final-year Computer Science student at Menoufia University (Graduating July 2025)
+- ⚛️ Focused on building responsive, accessible, and optimized UIs using React.js
+- 🧠 Currently learning: Next.js, TypeScript, React Query, and UI performance
+- 🌍 Actively looking for internship/junior frontend opportunities (remote or onsite)
+- 📫 Reach me: anashany2193@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anas+Hany!+😎;" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </div>
 
-<h3 align="center">Frontend Developer | JavaScript & React Specialist | Building Responsive Interfaces</h3>
+---
 
-## 🚀 About Me
+### 📂 Featured Projects
 
-- 🎓 Final-year Computer Science student at Menoufia University (Graduating in July 2025).  
-- 👨‍💻 Focused on frontend web development using modern frameworks and tools.  
-- ⚛️ Specialized in building responsive interfaces with React.js, Redux, and Tailwind CSS.  
-- 🛠️ Constantly learning: Next.js, TypeScript, React Query & Performance Optimization.  
-- 🌍 Open to remote/in-office opportunities for internships or junior frontend roles.  
-- 📫 Reach me at: anashany2193@gmail.com
+> 💡 _You can explore my projects in the Repositories tab. Below are some highlights:_
 
+- 🛒 **[MERN eCommerce App](https://github.com/AnasHany2193/mern-eCommerce-app-frontend)**  
+  React + Node.js full-stack eCommerce platform with JWT auth and Stripe integration.
 
-## 🛠️ Tech Stack
+- 🍽️ **[Food Ordering System](https://github.com/AnasHany2193/mern-food-ordering-frontend)**  
+  A full-featured restaurant ordering app with filtering, cart, and payments.
+
+- 🏕️ **[The Wild Oasis](https://github.com/AnasHany2193/The-Wild-Oasis)**  
+  Cabin booking management system built with Supabase and React Query.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,html,css,nodejs,express,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasHany2193&theme=react&hide_border=true&border_radius=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHany2193&layout=compact&theme=react&hide_border=true" />
 </div>
 
-## 📊 GitHub Stats
+---
+
+### 📫 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasHany2193&theme=dark&border_radius=5" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AnasHany2193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnasHany2193&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anashany219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/anashany219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anashany2193@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/01040045159" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
+</p>
 
 ## 💜 Views and Followers:
 
@@ -53,9 +65,3 @@
 <a href="https://github.com/AnasHany2193?tab=followers">
   <img src="https://img.shields.io/github/followers/AnasHany2193?label=Followers&style=social" alt="GitHub Badge">
 </a>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
-</h3>
-
-<br/>

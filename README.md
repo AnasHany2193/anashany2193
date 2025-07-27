@@ -5,18 +5,21 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Computer Science student at Menoufia University (Graduating July 2025)
-- ⚛️ Focused on building responsive, accessible, and optimized UIs using React.js
-- 🧠 Currently learning: Next.js, TypeScript, React Query, and UI performance
-- 🌍 Actively looking for internship/junior frontend opportunities (remote or onsite)
-- 📫 Reach me: anashany2193@gmail.com
+- 🎓 Computer Science graduate from Menoufia University (GPA: 3.14)
+- ⚛️ Frontend developer passionate about building responsive, scalable, and accessible web apps using React.js and modern tools
+- 🧠 Currently learning: .NET backend, SQL Server, advanced React patterns, and fullstack development
+- 💼 Recent Experience:
+  - Fullstack Intern @ Algoriza (React & .NET) - July 2025-Present
+  - React.js Intern @ ITI (120-hour certified program)
+- 🌍 Actively seeking junior frontend roles (remote or onsite)
+- 📫 Reach me at: anashany2193@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,nodejs,express,mongodb,dotnet,html,css" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </div>
 
@@ -24,16 +27,19 @@
 
 ### 📂 Featured Projects
 
-> 💡 _You can explore my projects in the Repositories tab. Below are some highlights:_
+> 💡 _You can explore more in the Repositories tab. Here are a few highlights:_
 
-- 🛒 **[MERN eCommerce App](https://github.com/AnasHany2193/mern-eCommerce-app-frontend)**  
-  React + Node.js full-stack eCommerce platform with JWT auth and Stripe integration.
+- 🛠️ **[FixItHub (Graduation Project)](https://github.com/AnasHany2193/FixItHub)**  
+  Full-stack platform to connect users with local maintenance pros. Role-based access, marketplace, and real-time updates.
 
 - 🍽️ **[Food Ordering System](https://github.com/AnasHany2193/mern-food-ordering-frontend)**  
-  A full-featured restaurant ordering app with filtering, cart, and payments.
+  A full-featured restaurant app with filtering, cart, and payment integration (Stripe + Auth0).
+
+- 🛒 **[MERN eCommerce App](https://github.com/AnasHany2193/mern-eCommerce-app-frontend)**  
+  Dynamic product management, authentication, Stripe payments. Built with MERN stack & Redux Toolkit.
 
 - 🏕️ **[The Wild Oasis](https://github.com/AnasHany2193/The-Wild-Oasis)**  
-  Cabin booking management system built with Supabase and React Query.
+  Cabin booking dashboard built with Supabase, React Query, styled components, and chart visualizations.
 
 ---
 
@@ -57,7 +63,9 @@
   </a>
 </p>
 
-## 💜 Views and Followers:
+---
+
+### 💜 Views and Followers:
 
 <a href="https://github.com/AnasHany2193/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AnasHany2193">
